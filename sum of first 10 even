@@ -4,7 +4,7 @@ public class Sumeven {
         do{
             sum=sum+i;
             i=i+2;
-        }while(i<=10);
+        }while(i<=20);
         System.out.println("Sum of first 10 even numbers is "+sum);
     
     }
